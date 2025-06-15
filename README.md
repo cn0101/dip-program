@@ -27,11 +27,10 @@ git clone [https://github.com/cn0101/dip-program]
 pip install -r requirements.txt
 ```
 
-3. 下载预训练模型：
-将预训练模型文件放置在 `data/models/` 目录下：
-- football-player-detection.pt
-- football-pitch-detection.pt
-- football-ball-detection.pt
+3. 下载预训练模型和输入:
+https://drive.google.com/drive/folders/1Wxl1Ugnbzaa1R1QT5_32IBQN_lRnSUu2?usp=drive_link
+下载input,models和output目录放在data目录下
+
 
 ## 使用方法
 
